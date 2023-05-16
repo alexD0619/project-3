@@ -2,7 +2,7 @@
   "motors": [
     {
       "motorName": "RB26DETT",
-      "totalDisplacement": "2569cc",
+      "totalDisplacement": "2.6L",
       "forcedInduction": "Twin Turbo",
       "horsePower": "276 Horsepower",
       "torque": "260 lb-ft",
@@ -11,44 +11,44 @@
       "manufactures": "Nissan"
     },
     {
-      "motorName": "",
-      "totalDisplacement": "",
-      "forcedInduction": "",
-      "horsePower": "",
-      "torque": "",
-      "layout": "",
-      "materials": "",
-      "manufactures": ""
+      "motorName": "SR20DET",
+      "totalDisplacement": "2.0L",
+      "forcedInduction": "Single Turbo",
+      "horsePower": "247 Horsepower",
+      "torque": "207 lb-ft",
+      "layout": "Inline 4",
+      "materials": "Aluminum",
+      "manufactures": "Nissan"
     },
     {
-      "motorName": "",
-      "totalDisplacement": "",
-      "forcedInduction": "",
-      "horsePower": "",
-      "torque": "",
-      "layout": "",
-      "materials": "",
-      "manufactures": ""
+      "motorName": "VR-38DETT",
+      "totalDisplacement": "3.8L",
+      "forcedInduction": "Twin Turbo",
+      "horsePower": "565 hp",
+      "torque": "481 lb-ft",
+      "layout": "V-6",
+      "materials": "Aluminum",
+      "manufactures": "Nissan"
     },
     {
-      "motorName": "",
-      "totalDisplacement": "",
-      "forcedInduction": "",
-      "horsePower": "",
-      "torque": "",
-      "layout": "",
-      "materials": "",
-      "manufactures": ""
+      "motorName": "VQ-35DE",
+      "totalDisplacement": "3.5L",
+      "forcedInduction": "Naturally Aspirated",
+      "horsePower": "276 hp",
+      "torque": "268 lb-ft",
+      "layout": "V-6",
+      "materials": "Forged Steel",
+      "manufactures": "Nissan"
     },
     {
-      "motorName": "",
-      "totalDisplacement": "",
-      "forcedInduction": "",
-      "horsePower": "",
-      "torque": "",
-      "layout": "",
-      "materials": "",
-      "manufactures": ""
+      "motorName": "2JZ-GTE",
+      "totalDisplacement": "3.0L",
+      "forcedInduction": "Twin Turbo",
+      "horsePower": "276 hp",
+      "torque": "333 lb-ft",
+      "layout": "Inline 6",
+      "materials": "Cast iron and Aluminum Alloy",
+      "manufactures": "Toyota"
     },
     {
       "motorName": "",
