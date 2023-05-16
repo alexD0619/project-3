@@ -1,14 +1,14 @@
 {
   "motors": [
     {
-      "motorName": "",
-      "totalDisplacement": "",
-      "forcedInduction": "",
-      "horsePower": "",
-      "torque": "",
-      "layout": "",
-      "materials": "",
-      "manufactures": ""
+      "motorName": "RB26DETT",
+      "totalDisplacement": "2569cc",
+      "forcedInduction": "Twin Turbo",
+      "horsePower": "276 Horsepower",
+      "torque": "260 lb-ft",
+      "layout": "Inline 6",
+      "materials": "Cast iron and Aluminum Alloy",
+      "manufactures": "Nissan"
     },
     {
       "motorName": "",
