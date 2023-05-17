@@ -241,14 +241,14 @@
       "manufactures": "Honda"
     },
     {
-      "motorName": "",
-      "totalDisplacement": "",
-      "forcedInduction": "",
-      "horsePower": "",
-      "torque": "",
-      "layout": "",
-      "materials": "",
-      "manufactures": ""
+      "motorName": "LS3",
+      "totalDisplacement": "6.2L",
+      "forcedInduction": "Naturally Aspirated",
+      "horsePower": "430",
+      "torque": "425",
+      "layout": "V-8",
+      "materials": "Aluminum",
+      "manufactures": "Chevrolet"
     }
   ]
 }
