@@ -91,14 +91,14 @@
       "manufactures": "Subaru"
     },
     {
-      "motorName": "",
-      "totalDisplacement": "",
-      "forcedInduction": "",
-      "horsePower": "",
-      "torque": "",
-      "layout": "",
-      "materials": "",
-      "manufactures": ""
+      "motorName": "Ej-257",
+      "totalDisplacement": "2.5L",
+      "forcedInduction": "Single Turbo",
+      "horsePower": "300 Horsepower",
+      "torque": "290 lb-ft",
+      "layout": "Boxer 4",
+      "materials": "Aluminum",
+      "manufactures": "Subaru"
     },
     {
       "motorName": "",
