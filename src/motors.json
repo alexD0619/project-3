@@ -75,7 +75,7 @@
       "layout": "Inline 4",
       "materials": "Cast iron and Aluminum",
       "manufactures": "Toyota",
-      "picture": ""
+      "picture": "https://dsportmag.com/wp-content/uploads/2021/03/225-Tech-Toyota4AGEBuildPart1-001-4AGEengine.jpg"
     },
     {
       "motorName": "4U-GSE",
@@ -86,7 +86,7 @@
       "layout": "Boxer 4",
       "materials": "Aluminum Alloy",
       "manufactures": "Toyota",
-      "picture": ""
+      "picture": "https://thumbs.dreamstime.com/b/surakarta-indonesia-september-toyota-gt-some-market-small-sport-car-made-joint-venture-subaru-named-as-249072061.jpg"
     },
     {
       "motorName": "FA-20",
@@ -97,7 +97,7 @@
       "layout": "Boxer 4",
       "materials": "Aluminum Alloy",
       "manufactures": "Subaru",
-      "picture": ""
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Subaru_FA20_engine_in_Subaru_BRZ_S_%28DBA-ZC6%29.jpg"
     },
     {
       "motorName": "Ej-257",
@@ -108,7 +108,7 @@
       "layout": "Boxer 4",
       "materials": "Aluminum",
       "manufactures": "Subaru",
-      "picture": ""
+      "picture": "https://files.ekmcdn.com/nipponautos/images/subaru-impreza-wrx-sti-ej257-engine-372-1-p.png?v=c1805df8-1c15-49a7-8b8c-766c00f45f13"
     },
     {
       "motorName": "5.2L Voodoo",
@@ -119,7 +119,7 @@
       "layout": "V-8",
       "materials": "Cast Aluminum",
       "manufactures": "Ford",
-      "picture": ""
+      "picture": "https://www.speednik.com/files/2017/06/2017-06-29_21-47-59.jpg"
     },
     {
       "motorName": "Gen 3 COYOTE",
@@ -129,7 +129,8 @@
       "torque": "420 lb-ft",
       "layout": "V-8",
       "materials": "Forged Steel and Aluminum",
-      "manufactures": "Ford"
+      "manufactures": "Ford",
+      "picture": "https://www.speednik.com/files/2020/08/inside-ford-performances-gen-3-aluminator-5-0-liter-engine-2020-08-12_13-57-18_981424.jpg"
     },
     {
       "motorName": "Eco Boost",
@@ -140,7 +141,7 @@
       "layout": "Inline 4",
       "materials": "Aluminum",
       "manufactures": "Ford",
-      "picture": ""
+      "picture": "https://s19539.pcdn.co/wp-content/uploads/2018/07/ford-ecoboost-1-724600.jpg"
     },
     {
       "motorName": "LT4",
@@ -151,7 +152,7 @@
       "layout": "V-8",
       "materials": "Aluminum",
       "manufactures": "Chevrolet",
-      "picture": ""
+      "picture": "https://www.mechanicalpower.net/wp-content/uploads/2021/11/corvette-lt4-engine.jpg"
     },
     {
       "motorName": "N54",
@@ -162,7 +163,7 @@
       "layout": "Inline 6",
       "materials": "Aluminum",
       "manufactures": "BMW",
-      "picture": ""
+      "picture": "https://bimmers.com/wp-content/uploads/2021/11/bmw-n54-engine-4.jpeg"
     },
     {
       "motorName": "N55",
@@ -173,7 +174,7 @@
       "layout": "Inline 6",
       "materials": "Aluminum",
       "manufactures": "BMW",
-      "picture": ""
+      "picture": "https://transport.kelsey.host/wp-content/uploads/sites/2/BMw-N54-N55-Engine-Guide-4.jpg"
     },
     {
       "motorName": "S58",
@@ -183,7 +184,8 @@
       "torque": "479 lb-ft",
       "layout": "Inline 6",
       "materials": "Aluminum",
-      "manufactures": "BMW"
+      "manufactures": "BMW",
+      "picture": "https://thumbimg.dealmoon.com/dealmoon/3b2/7b8/284/2f52275ff4486c16b28e197.jpg"
     },
     {
       "motorName": "S55",
@@ -193,7 +195,8 @@
       "torque": "406",
       "layout": "Inline 6",
       "materials": "Cast Aluminum",
-      "manufactures": "BMW"
+      "manufactures": "BMW",
+      "picture": "https://bimmers.com/wp-content/uploads/2021/12/bmw-s55-engine-1.jpeg"
     },
     {
       "motorName": "B58",
@@ -203,7 +206,8 @@
       "torque": "369 lb-ft",
       "layout": "Inline 6",
       "materials": "Aluminum",
-      "manufactures": "BMW"
+      "manufactures": "BMW",
+      "picture": "https://cdn.bmwblog.com/wp-content/uploads/2020/10/2020-bmw-z4-m40i-test-drive-60.jpg"
     },
     {
       "motorName": "F20C",
@@ -214,7 +218,7 @@
       "layout": "Inline 4",
       "materials": "Aluminum",
       "manufactures": "Honda",
-      "picture": ""
+      "picture": "https://www.drivingline.com/s3/drivingline.prd/cropped/115969/basic_wallpapers_honda_s-series_1999_6_1600x1200.jpg"
     },
     {
       "motorName": "K20A(HP)",
@@ -225,7 +229,7 @@
       "layout": "Inline 4",
       "materials": "Aluminum",
       "manufactures": "Honda",
-      "picture": ""
+      "picture": "https://www.drifted.com/wp-content/uploads/2019/09/honda-k20-motor-guide.jpg"
     },
     {
       "motorName": "B18C5",
@@ -235,7 +239,8 @@
       "torque": "130 lb-ft",
       "layout": "Inline 4",
       "materials": "Aluminum",
-      "manufactures": "Honda"
+      "manufactures": "Honda",
+      "picture": "https://cdn.shopify.com/s/files/1/0505/1537/8365/files/B18c5engine1.jpg"
     },
     {
       "motorName": "K20C1",
@@ -246,7 +251,7 @@
       "layout": "Inline 4",
       "materials": "Aluminum",
       "manufactures": "Honda",
-      "picture": ""
+      "picture": "https://images.summitmedia-digital.com/topgear/images/2021/02/11/honda-civic-type-r-k20c1-crate-engine-2-1613039907.jpg"
     },
     {
       "motorName": "B16A",
@@ -257,7 +262,7 @@
       "layout": "Inline 4",
       "materials": "Aluminum",
       "manufactures": "Honda",
-      "picture": ""
+      "picture": "https://www.drifted.com/wp-content/uploads/2020/08/honda-b16.jpg"
     },
     {
       "motorName": "LS3",
@@ -268,7 +273,7 @@
       "layout": "V-8",
       "materials": "Aluminum",
       "manufactures": "Chevrolet",
-      "picture": ""
+      "picture": "https://cdn11.bigcommerce.com/s-dals72eswg/images/stencil/1280x1280/products/49201/495155/IMG_2836__40110.1655407180.jpg?c=2"
     }
   ]
 }
