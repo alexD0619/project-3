@@ -1,17 +1,26 @@
 import './App.css'
 import motors from './motors.json'
 import Motor from './components/Motor'
+import SideBar from './components/SideBar'
+import Header from './components/Header'
 
 const App = () => {
   return (
     <div className="App">
-      <h1>My project</h1>
-      <div className="oblock">
-        <main>
-          {motors.engines.map((motor) => (
-            <Motor key={motor.motorName} motor={motor} />
-          ))}
-        </main>
+      <div className="head">
+        <Header />
+      </div>
+      <div class="flex-container">
+        <div className="side">
+          <SideBar />
+        </div>
+        <div className="emap">
+          <main>
+            {motors.engines.map((motor) => (
+              <Motor key={motor.motorName} motor={motor} />
+            ))}
+          </main>
+        </div>
       </div>
     </div>
   )

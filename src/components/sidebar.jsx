@@ -3,11 +3,13 @@ const SideBar = () => {
     <div className="side-bar">
       <div className="side-info">
         <h1>SideBar</h1>
-        <h2>
-          Using this app, we'll display an array of country data by mapping
-          through it and returning some JSX. When done correctly, we should see
-          a full list of countries on the right side of our screen!
-        </h2>
+        <h3>
+          This webiste was created out of a passion for cars and what powers
+          them. The engines displayed are some of the most popular in the world
+          at the moment. Their origins range from Asia, Europe and the States!
+          Featured manufactures are Nissan, Toyota, Honda, Subaru, Ford,
+          Chevrolet and BMW!
+        </h3>
       </div>
     </div>
   )
