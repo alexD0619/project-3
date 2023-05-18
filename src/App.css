@@ -1,0 +1,13 @@
+.motor {
+  display: flex;
+  flex-direction:column-reverse;
+  align-items:center
+  min-height: 20vh;
+  font-size: calc(8px + 1vmin);
+  color: darkblue;
+  background-color: #f3f4f5;
+}
+
+img {
+  width: 15vw;
+}

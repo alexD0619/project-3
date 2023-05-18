@@ -1,5 +1,5 @@
 {
-  "motors": [
+  "engines": [
     {
       "motorName": "RB26DETT",
       "totalDisplacement": "2.6L",
@@ -8,7 +8,8 @@
       "torque": "260 lb-ft",
       "layout": "Inline 6",
       "materials": "Cast iron and Aluminum Alloy",
-      "manufactures": "Nissan"
+      "manufactures": "Nissan",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/7/7b/RB26DETT_R34.jpg"
     },
     {
       "motorName": "SR20DET",
@@ -18,7 +19,8 @@
       "torque": "207 lb-ft",
       "layout": "Inline 4",
       "materials": "Aluminum",
-      "manufactures": "Nissan"
+      "manufactures": "Nissan",
+      "picture": "https://www.drifted.com/wp-content/uploads/2020/03/twin-turbo-sr20det.jpg"
     },
     {
       "motorName": "VR-38DETT",
@@ -28,7 +30,8 @@
       "torque": "481 lb-ft",
       "layout": "V-6",
       "materials": "Aluminum",
-      "manufactures": "Nissan"
+      "manufactures": "Nissan",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Nissan_VR38DETT_Engine.JPG/1200px-Nissan_VR38DETT_Engine.JPG"
     },
     {
       "motorName": "VQ-35DE",
@@ -38,7 +41,8 @@
       "torque": "268 lb-ft",
       "layout": "V-6",
       "materials": "Forged Steel",
-      "manufactures": "Nissan"
+      "manufactures": "Nissan",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Nissan_VQ35DE_engine_001.jpg"
     },
     {
       "motorName": "2JZ-GTE",
@@ -48,7 +52,8 @@
       "torque": "333 lb-ft",
       "layout": "Inline 6",
       "materials": "Cast iron and Aluminum Alloy",
-      "manufactures": "Toyota"
+      "manufactures": "Toyota",
+      "picture": "https://www.motortrend.com/uploads/sites/25/2015/06/Understanding-The-Toyota-2JZ-GTE-Engine-Supra-Engine-Bay-03.jpg"
     },
     {
       "motorName": "1JZ-GTE",
@@ -58,7 +63,8 @@
       "torque": "268 lb-ft",
       "layout": "Inline 6",
       "materials": "Cast iron and Aluminum",
-      "manufactures": "Toyota"
+      "manufactures": "Toyota",
+      "picture": "https://cdn.shopify.com/s/files/1/0362/1973/articles/1jz86_bay_shot_1024x1024.jpg?v=1642885469"
     },
     {
       "motorName": "4A-GE",
@@ -68,7 +74,8 @@
       "torque": "119 lb-ft",
       "layout": "Inline 4",
       "materials": "Cast iron and Aluminum",
-      "manufactures": "Toyota"
+      "manufactures": "Toyota",
+      "picture": ""
     },
     {
       "motorName": "4U-GSE",
@@ -78,7 +85,8 @@
       "torque": "151 lb-ft",
       "layout": "Boxer 4",
       "materials": "Aluminum Alloy",
-      "manufactures": "Toyota"
+      "manufactures": "Toyota",
+      "picture": ""
     },
     {
       "motorName": "FA-20",
@@ -88,7 +96,8 @@
       "torque": "151 lb-ft",
       "layout": "Boxer 4",
       "materials": "Aluminum Alloy",
-      "manufactures": "Subaru"
+      "manufactures": "Subaru",
+      "picture": ""
     },
     {
       "motorName": "Ej-257",
@@ -98,7 +107,8 @@
       "torque": "290 lb-ft",
       "layout": "Boxer 4",
       "materials": "Aluminum",
-      "manufactures": "Subaru"
+      "manufactures": "Subaru",
+      "picture": ""
     },
     {
       "motorName": "5.2L Voodoo",
@@ -108,7 +118,8 @@
       "torque": "429 lb-ft",
       "layout": "V-8",
       "materials": "Cast Aluminum",
-      "manufactures": "Ford"
+      "manufactures": "Ford",
+      "picture": ""
     },
     {
       "motorName": "Gen 3 COYOTE",
@@ -128,7 +139,8 @@
       "torque": "350 lb-ft",
       "layout": "Inline 4",
       "materials": "Aluminum",
-      "manufactures": "Ford"
+      "manufactures": "Ford",
+      "picture": ""
     },
     {
       "motorName": "LT4",
@@ -138,7 +150,8 @@
       "torque": "650 lb-ft",
       "layout": "V-8",
       "materials": "Aluminum",
-      "manufactures": "Chevrolet"
+      "manufactures": "Chevrolet",
+      "picture": ""
     },
     {
       "motorName": "N54",
@@ -148,7 +161,8 @@
       "torque": "369 lb-ft",
       "layout": "Inline 6",
       "materials": "Aluminum",
-      "manufactures": "BMW"
+      "manufactures": "BMW",
+      "picture": ""
     },
     {
       "motorName": "N55",
@@ -158,7 +172,8 @@
       "torque": "343 lb-ft",
       "layout": "Inline 6",
       "materials": "Aluminum",
-      "manufactures": "BMW"
+      "manufactures": "BMW",
+      "picture": ""
     },
     {
       "motorName": "S58",
@@ -198,7 +213,8 @@
       "torque": "150 lb-ft",
       "layout": "Inline 4",
       "materials": "Aluminum",
-      "manufactures": "Honda"
+      "manufactures": "Honda",
+      "picture": ""
     },
     {
       "motorName": "K20A(HP)",
@@ -208,7 +224,8 @@
       "torque": "149 lb-ft",
       "layout": "Inline 4",
       "materials": "Aluminum",
-      "manufactures": "Honda"
+      "manufactures": "Honda",
+      "picture": ""
     },
     {
       "motorName": "B18C5",
@@ -228,7 +245,8 @@
       "torque": "296 lb-ft",
       "layout": "Inline 4",
       "materials": "Aluminum",
-      "manufactures": "Honda"
+      "manufactures": "Honda",
+      "picture": ""
     },
     {
       "motorName": "B16A",
@@ -238,7 +256,8 @@
       "torque": "111 lb-ft",
       "layout": "Inline 4",
       "materials": "Aluminum",
-      "manufactures": "Honda"
+      "manufactures": "Honda",
+      "picture": ""
     },
     {
       "motorName": "LS3",
@@ -248,7 +267,8 @@
       "torque": "425",
       "layout": "V-8",
       "materials": "Aluminum",
-      "manufactures": "Chevrolet"
+      "manufactures": "Chevrolet",
+      "picture": ""
     }
   ]
 }
