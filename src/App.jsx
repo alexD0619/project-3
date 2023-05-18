@@ -3,6 +3,7 @@ import motors from './motors.json'
 import Motor from './components/Motor'
 import SideBar from './components/SideBar'
 import Header from './components/Header'
+import Footer from './components/Footer'
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
               <Motor key={motor.motorName} motor={motor} />
             ))}
           </main>
+          <Footer />
         </div>
       </div>
     </div>
